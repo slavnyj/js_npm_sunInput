@@ -1,0 +1,22 @@
+{
+  "name": "sum-input",
+  "version": "1.0.0",
+  "description": "Asks the user to enter values using prompt and saves them to an array. Counts and returns the sum of the elements in an array.",
+  "main": "sumInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavnyj/js_npm_sunInput.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "Alexandr Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavnyj/js_npm_sunInput/issues"
+  },
+  "homepage": "https://github.com/slavnyj/js_npm_sunInput#readme"
+}
